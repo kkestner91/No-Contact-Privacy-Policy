@@ -15,9 +15,13 @@ We do not collect any personal information through the use of this app. No data 
 The app requires the following permissions for specific functionality:
 
 Contacts (read and write): Used to identify callers from your contacts.
+
 Call Log: To prevent unecessary notifications.
+
 Read Phone State: Allows the app to intercept calls and check them against the contact list before allowing them through.
+
 Bind Call Screener Service: Necessary for call interception and contact list verification.
+
 4. Data Storage and Security
 
 Since we do not collect any data, there is no storage or security concern related to user information.
